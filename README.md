@@ -1,4 +1,7 @@
 # zomato-eda
+
+Check out: zomato-eda-and-preliminary-modelling.ipynb
+
 Cleaned Zomato Dataset (Kaggle)
 The original Zomato Bengaluru dataset is, let's face it, dirty. There are too many redundancies and too much information which does not make any sense. There are a multitude of URLs for the same restaurant and it's about time we got a cleaner, crisper dataset. This dataset contains the original data (in the diners.db file) and the new data included in the SQL database and in CSV format too. There are other useful files like user preferences files, Bengaluru POI .geojson files, location density and rent analysis files which can aid geospatial analysis.
 
