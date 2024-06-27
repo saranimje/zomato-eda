@@ -1,0 +1,197 @@
+category,city,rating
+Buffet,BTM,3.895
+Buffet,Banashankari,3.843
+Buffet,Bannerghatta Road,3.6
+Buffet,Basavanagudi,3.7
+Buffet,Bellandur,3.99
+Buffet,Brigade Road,3.872
+Buffet,Brookefield,3.564
+Buffet,Church Street,3.877
+Buffet,Electronic City,3.378
+Buffet,Frazer Town,3.836
+Buffet,HSR,3.643
+Buffet,Indiranagar,4.003
+Buffet,JP Nagar,3.684
+Buffet,Jayanagar,3.752
+Buffet,Kalyan Nagar,4.2
+Buffet,Koramangala 4th Block,3.869
+Buffet,Koramangala 5th Block,3.861
+Buffet,Koramangala 6th Block,3.923
+Buffet,Koramangala 7th Block,3.854
+Buffet,Lavelle Road,3.877
+Buffet,MG Road,3.915
+Buffet,Malleshwaram,4.087
+Buffet,Marathahalli,3.994
+Buffet,New BEL Road,4.025
+Buffet,Old Airport Road,3.908
+Buffet,Rajajinagar,4.077
+Buffet,Residency Road,3.882
+Buffet,Sarjapur Road,3.908
+Cafes,BTM,3.511
+Cafes,Banashankari,3.775
+Cafes,Bannerghatta Road,2.972
+Cafes,Basavanagudi,3.561
+Cafes,Bellandur,3.219
+Cafes,Brigade Road,3.373
+Cafes,Brookefield,3.138
+Cafes,Church Street,3.432
+Cafes,Electronic City,2.692
+Cafes,Frazer Town,3.54
+Cafes,HSR,3.275
+Cafes,Indiranagar,3.47
+Cafes,JP Nagar,3.357
+Cafes,Jayanagar,3.428
+Cafes,Kalyan Nagar,2.98
+Cafes,Kammanahalli,3.048
+Cafes,Koramangala 4th Block,3.733
+Cafes,Koramangala 5th Block,4.138
+Cafes,Koramangala 6th Block,3.728
+Cafes,Koramangala 7th Block,3.655
+Cafes,Lavelle Road,3.422
+Cafes,MG Road,3.45
+Cafes,Malleshwaram,3.569
+Cafes,Marathahalli,2.887
+Cafes,New BEL Road,3.149
+Cafes,Old Airport Road,3.365
+Cafes,Rajajinagar,3.223
+Cafes,Residency Road,3.38
+Cafes,Sarjapur Road,3.181
+Cafes,Whitefield,3.54
+Delivery,BTM,2.906
+Delivery,Banashankari,3.186
+Delivery,Bannerghatta Road,2.673
+Delivery,Basavanagudi,3.141
+Delivery,Bellandur,2.777
+Delivery,Brigade Road,3.045
+Delivery,Brookefield,2.663
+Delivery,Church Street,2.991
+Delivery,Electronic City,2.195
+Delivery,Frazer Town,3.019
+Delivery,HSR,2.771
+Delivery,Indiranagar,2.954
+Delivery,JP Nagar,2.847
+Delivery,Jayanagar,3.07
+Delivery,Kalyan Nagar,2.802
+Delivery,Kammanahalli,2.807
+Delivery,Koramangala 4th Block,2.978
+Delivery,Koramangala 5th Block,2.953
+Delivery,Koramangala 6th Block,3.004
+Delivery,Koramangala 7th Block,3.001
+Delivery,Lavelle Road,3.018
+Delivery,MG Road,3.08
+Delivery,Malleshwaram,3.17
+Delivery,Marathahalli,2.755
+Delivery,New BEL Road,2.799
+Delivery,Old Airport Road,3.039
+Delivery,Rajajinagar,2.951
+Delivery,Residency Road,3.04
+Delivery,Sarjapur Road,2.87
+Delivery,Whitefield,2.559
+Desserts,BTM,2.933
+Desserts,Banashankari,2.992
+Desserts,Bannerghatta Road,2.437
+Desserts,Basavanagudi,2.996
+Desserts,Bellandur,3.003
+Desserts,Brigade Road,2.926
+Desserts,Brookefield,2.585
+Desserts,Church Street,2.98
+Desserts,Electronic City,2.25
+Desserts,Frazer Town,2.995
+Desserts,HSR,2.85
+Desserts,Indiranagar,3.209
+Desserts,JP Nagar,2.594
+Desserts,Jayanagar,2.681
+Desserts,Kalyan Nagar,2.604
+Desserts,Kammanahalli,2.656
+Desserts,Koramangala 4th Block,3.036
+Desserts,Koramangala 5th Block,2.982
+Desserts,Koramangala 6th Block,2.969
+Desserts,Koramangala 7th Block,2.886
+Desserts,Lavelle Road,3.02
+Desserts,MG Road,2.957
+Desserts,Malleshwaram,3.033
+Desserts,Marathahalli,2.74
+Desserts,New BEL Road,2.814
+Desserts,Old Airport Road,3.205
+Desserts,Rajajinagar,2.85
+Desserts,Residency Road,2.984
+Desserts,Sarjapur Road,3.009
+Desserts,Whitefield,2.534
+Dine-out,BTM,2.876
+Dine-out,Banashankari,2.904
+Dine-out,Bannerghatta Road,2.661
+Dine-out,Basavanagudi,3.097
+Dine-out,Bellandur,2.755
+Dine-out,Brigade Road,3.175
+Dine-out,Brookefield,2.66
+Dine-out,Church Street,3.162
+Dine-out,Electronic City,2.401
+Dine-out,Frazer Town,2.832
+Dine-out,HSR,2.778
+Dine-out,Indiranagar,3.146
+Dine-out,JP Nagar,2.839
+Dine-out,Jayanagar,2.849
+Dine-out,Kalyan Nagar,2.758
+Dine-out,Kammanahalli,2.842
+Dine-out,Koramangala 4th Block,3.095
+Dine-out,Koramangala 5th Block,2.952
+Dine-out,Koramangala 6th Block,3.044
+Dine-out,Koramangala 7th Block,2.982
+Dine-out,Lavelle Road,3.137
+Dine-out,MG Road,3.204
+Dine-out,Malleshwaram,3.154
+Dine-out,Marathahalli,2.802
+Dine-out,New BEL Road,2.702
+Dine-out,Old Airport Road,3.125
+Dine-out,Rajajinagar,2.893
+Dine-out,Residency Road,3.15
+Dine-out,Sarjapur Road,2.918
+Dine-out,Whitefield,2.782
+Drinks & nightlife,BTM,3.703
+Drinks & nightlife,Banashankari,2.963
+Drinks & nightlife,Bannerghatta Road,3.312
+Drinks & nightlife,Basavanagudi,3.675
+Drinks & nightlife,Bellandur,4.14
+Drinks & nightlife,Brigade Road,3.888
+Drinks & nightlife,Brookefield,3.858
+Drinks & nightlife,Church Street,3.894
+Drinks & nightlife,Electronic City,3.491
+Drinks & nightlife,Frazer Town,3.846
+Drinks & nightlife,HSR,3.7
+Drinks & nightlife,Indiranagar,3.806
+Drinks & nightlife,JP Nagar,3.348
+Drinks & nightlife,Jayanagar,3.948
+Drinks & nightlife,Kalyan Nagar,3.894
+Drinks & nightlife,Kammanahalli,3.894
+Drinks & nightlife,Koramangala 4th Block,3.961
+Drinks & nightlife,Koramangala 5th Block,3.864
+Drinks & nightlife,Koramangala 6th Block,3.945
+Drinks & nightlife,Koramangala 7th Block,3.946
+Drinks & nightlife,Lavelle Road,3.775
+Drinks & nightlife,MG Road,3.906
+Drinks & nightlife,Malleshwaram,3.844
+Drinks & nightlife,Marathahalli,3.969
+Drinks & nightlife,New BEL Road,4.115
+Drinks & nightlife,Old Airport Road,3.843
+Drinks & nightlife,Rajajinagar,3.79
+Drinks & nightlife,Residency Road,3.942
+Drinks & nightlife,Sarjapur Road,4.129
+Drinks & nightlife,Whitefield,3.867
+Pubs and bars,BTM,3.681
+Pubs and bars,Bellandur,4.243
+Pubs and bars,Brigade Road,3.656
+Pubs and bars,Church Street,3.716
+Pubs and bars,Electronic City,3.31
+Pubs and bars,Frazer Town,3.194
+Pubs and bars,HSR,3.391
+Pubs and bars,Indiranagar,3.664
+Pubs and bars,Koramangala 5th Block,3.624
+Pubs and bars,Koramangala 7th Block,3.765
+Pubs and bars,MG Road,3.728
+Pubs and bars,Malleshwaram,3.94
+Pubs and bars,New BEL Road,4.158
+Pubs and bars,Old Airport Road,3.758
+Pubs and bars,Rajajinagar,3.834
+Pubs and bars,Sarjapur Road,3.925
+Pubs and bars,Whitefield,3.655
+,,
